@@ -1,0 +1,10 @@
+D:\Валера\Учеба\Лабы\Сети\РГР\SendingSMS\SendingSMS\obj\Debug\SendingSMS.csprojAssemblyReference.cache
+D:\Валера\Учеба\Лабы\Сети\РГР\SendingSMS\SendingSMS\obj\Debug\SendingSMS.Properties.Resources.resources
+D:\Валера\Учеба\Лабы\Сети\РГР\SendingSMS\SendingSMS\obj\Debug\SendingSMS.csproj.GenerateResource.cache
+D:\Валера\Учеба\Лабы\Сети\РГР\SendingSMS\SendingSMS\obj\Debug\SendingSMS.csproj.CoreCompileInputs.cache
+D:\Валера\Учеба\Лабы\Сети\РГР\SendingSMS\SendingSMS\bin\Debug\SendingSMS.exe.config
+D:\Валера\Учеба\Лабы\Сети\РГР\SendingSMS\SendingSMS\bin\Debug\SendingSMS.exe
+D:\Валера\Учеба\Лабы\Сети\РГР\SendingSMS\SendingSMS\bin\Debug\SendingSMS.pdb
+D:\Валера\Учеба\Лабы\Сети\РГР\SendingSMS\SendingSMS\obj\Debug\SendingSMS.exe
+D:\Валера\Учеба\Лабы\Сети\РГР\SendingSMS\SendingSMS\obj\Debug\SendingSMS.pdb
+D:\Валера\Учеба\Лабы\Сети\РГР\SendingSMS\SendingSMS\obj\Debug\SendingSMS.Form1.resources
